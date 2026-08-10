@@ -6,9 +6,10 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=0F2027)](https://bharath934477.github.io/My-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-raj-887oo)
-[![Email](https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathraj88700@gmail.com)
+<a href="https://bharath934477.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=0F2027" /></a>
+<a href="https://www.linkedin.com/in/bharath-raj-887oo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/bharath934477"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bharath934477&label=PROFILE%20VIEWS&color=00C9A7&style=for-the-badge)
 
@@ -32,21 +33,34 @@ I'm a Cyber Security undergraduate (B.E., III Year) with a strong interest in et
 | Qualification | Institution | Score |
 |---|---|---|
 | B.E. Cyber Security (III Year) | Mahendra Engineering College | CGPA 8.39 |
-| Higher Secondary Certificate (HSC) | — | 64% |
-| Secondary School Leaving Certificate (SSLC) | — | 54% |
+| Higher Secondary Certificate (HSC) | Model School, Dharmapuri | 64% |
+| Secondary School Leaving Certificate (SSLC) | Model School, Dharmapuri | 54% |
 
 <br>
 
 ## 💻 Technical Skills
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,py,html,css,git,github,linux,bash&theme=dark" />
 
-**Web Technologies**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+
+**Security & Networking Tools**
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0F2027?style=for-the-badge&logo=nmap&logoColor=00C9A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C5364?style=for-the-badge&logo=metasploit&logoColor=white)
+
+</div>
+
+<br>
 
 **Core Competencies**
 
@@ -73,6 +87,8 @@ I'm a Cyber Security undergraduate (B.E., III Year) with a strong interest in et
 ## 🚀 Featured Project
 
 ### Student Careers Application
+
+<img src="https://skillicons.dev/icons?i=java,html,css&theme=dark" />
 
 An application ecosystem designed to streamline career guidance, resource mapping, and training opportunities for students.
 
@@ -117,13 +133,23 @@ An application ecosystem designed to streamline career guidance, resource mappin
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath934477&theme=tokyo-night&bg_color=0F2027&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true" width="100%" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bharath934477&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
 
 <br>
 
 ## 📫 Contact
 
-📧 [bharathraj88700@gmail.com](mailto:bharathraj88700@gmail.com) · 📞 +91 63852 30265 · 📍 Dharmapuri, Tamil Nadu, India
+<div align="center">
+
+<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+916385230265"><img src="https://img.shields.io/badge/Call-2C5364?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Dharmapuri,_Tamil_Nadu-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00C9A7" />
+
+</div>
 
 <br>
 
