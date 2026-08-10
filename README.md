@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Bharathraj%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20Student%20%C2%B7%20Aspiring%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2C5364,75:00C9A7,100:00FF87&height=200&section=header&text=Bharathraj%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20Student%20%C2%B7%20Aspiring%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00C9A7&center=true&vCenter=true&width=600&lines=Securing+Systems%2C+One+Line+at+a+Time;Ethical+Hacking+%7C+Network+Security;Always+Learning%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=FF0080&center=true&vCenter=true&width=600&lines=Securing+Systems%2C+One+Line+at+a+Time;Ethical+Hacking+%7C+Network+Security;Always+Learning%2C+Always+Building" />
 
 <br><br>
 
-<a href="https://bharath934477.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=0F2027" /></a>
+<a href="https://bharath934477.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/bharath-raj-887oo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/bharath934477"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Email-7928CA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/bharath934477"><img src="https://img.shields.io/badge/GitHub-00FF87?style=for-the-badge&logo=github&logoColor=0F2027" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bharath934477&label=PROFILE%20VIEWS&color=00C9A7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=bharath934477&label=PROFILE%20VIEWS&color=FF0080&style=for-the-badge)
 
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="right" width="350"/>
 
 I'm a Cyber Security undergraduate (B.E., III Year) with a strong interest in ethical hacking, network security, and building secure, efficient digital solutions. I enjoy solving problems through code and continuously expanding my technical skill set.
 
@@ -42,7 +44,21 @@ I'm a Cyber Security undergraduate (B.E., III Year) with a strong interest in et
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,html,css,git,github,linux,bash&theme=dark" />
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=java,py,html,css,js&theme=dark" />
+
+<br><br>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,vim&theme=dark" />
+
+<br><br>
+
+**Security & OS**
+
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
 
 </div>
 
@@ -75,10 +91,10 @@ I'm a Cyber Security undergraduate (B.E., III Year) with a strong interest in et
 
 <div align="center">
 
-![Cyber Security](https://img.shields.io/badge/CYBER_SECURITY-00C9A7?style=for-the-badge&logo=hackthebox&logoColor=0F2027)
-![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-0F2027?style=for-the-badge&logo=kalilinux&logoColor=00C9A7)
-![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-2C5364?style=for-the-badge&logo=cisco&logoColor=white)
-![Vulnerability Analysis](https://img.shields.io/badge/VULNERABILITY_ANALYSIS-0F2027?style=for-the-badge&logo=protonvpn&logoColor=00C9A7)
+![Cyber Security](https://img.shields.io/badge/CYBER_SECURITY-FF0080?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-7928CA?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-00C9A7?style=for-the-badge&logo=cisco&logoColor=white)
+![Vulnerability Analysis](https://img.shields.io/badge/VULNERABILITY_ANALYSIS-00FF87?style=for-the-badge&logo=protonvpn&logoColor=0F2027)
 
 </div>
 
@@ -104,10 +120,10 @@ An application ecosystem designed to streamline career guidance, resource mappin
 
 <div align="center">
 
-![Advanced Cyber Security](https://img.shields.io/badge/ADVANCED_CYBER_SECURITY-00C9A7?style=for-the-badge)
-![Python for Cyber Security](https://img.shields.io/badge/PYTHON_FOR_CYBER_SECURITY-2C5364?style=for-the-badge)
-![Java](https://img.shields.io/badge/JAVA_PROGRAMMING-0F2027?style=for-the-badge)
-![Web Dev](https://img.shields.io/badge/WEB_DEVELOPMENT-00C9A7?style=for-the-badge)
+![Advanced Cyber Security](https://img.shields.io/badge/ADVANCED_CYBER_SECURITY-FF0080?style=for-the-badge)
+![Python for Cyber Security](https://img.shields.io/badge/PYTHON_FOR_CYBER_SECURITY-7928CA?style=for-the-badge)
+![Java](https://img.shields.io/badge/JAVA_PROGRAMMING-00C9A7?style=for-the-badge)
+![Web Dev](https://img.shields.io/badge/WEB_DEVELOPMENT-00FF87?style=for-the-badge&logoColor=0F2027)
 
 </div>
 
@@ -126,16 +142,16 @@ An application ecosystem designed to streamline career guidance, resource mappin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharath934477&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath934477&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C9A7&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bharath934477&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath934477&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=bharath934477&theme=tokyonight&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="70%" />
+<img src="https://streak-stats.demolab.com?user=bharath934477&theme=tokyonight&hide_border=true" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath934477&theme=tokyo-night&bg_color=0F2027&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharath934477&theme=tokyo-night&hide_border=true" width="100%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharath934477&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=bharath934477&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -145,9 +161,9 @@ An application ecosystem designed to streamline career guidance, resource mappin
 
 <div align="center">
 
-<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+916385230265"><img src="https://img.shields.io/badge/Call-2C5364?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Dharmapuri,_Tamil_Nadu-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00C9A7" />
+<a href="mailto:bharathraj88700@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+916385230265"><img src="https://img.shields.io/badge/Call-7928CA?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Dharmapuri,_Tamil_Nadu-00FF87?style=for-the-badge&logo=googlemaps&logoColor=0F2027" />
 
 </div>
 
@@ -155,8 +171,8 @@ An application ecosystem designed to streamline career guidance, resource mappin
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Securing;Thanks+for+visiting+my+profile!+%E2%AD%90" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Keep+Learning+%7C+Keep+Building+%7C+Keep+Securing;Thanks+for+visiting+my+profile!+%E2%AD%90" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,25:00C9A7,50:2C5364,75:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
 
 </div>
